@@ -25,11 +25,10 @@ Original work — authored and maintained by me.
 | [rspamd-kam-rules](https://github.com/eilandert/rspamd-kam-rules) | Download, validate, convert and deploy KAM rules for Rspamd |
 | [rspamd-dcc-razor-pyzor](https://github.com/eilandert/rspamd-dcc-razor-pyzor) | Rspamd plugin + s6 Debian image scoring mail via DCC / Razor / Pyzor |
 | [dockerized](https://github.com/eilandert/dockerized) | Dockerized stuff |
-| [patches](https://github.com/eilandert/patches) | Random patches and scripts I made or use |
 
 ## Dead Projects Forked & Maintaining
 
-Forks of dead upstream projects, carrying my patches.
+Abandoned upstream projects I forked and now maintain.
 
 | Fork | Upstream | What it is |
 |---|---|---|
@@ -51,6 +50,8 @@ where I package and keep up to date a hardened web/mail stack
 
 EOL projects
 
+| Project | What it is |
+|---|---|
 | [DShield.py](https://github.com/eilandert/DShield.py) | Parse Linux iptables / Snort logs into DShield format and mail them |
 | [Botnet.pm](https://github.com/eilandert/Botnet.pm) | SpamAssassin module |
 | [build_psol](https://github.com/eilandert/build_psol) | Build the PageSpeed Optimization Library (PSOL) |
