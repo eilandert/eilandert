@@ -59,3 +59,9 @@ EOL projects
 | [Botnet.pm](https://github.com/eilandert/Botnet.pm) | SpamAssassin module |
 | [build_psol](https://github.com/eilandert/build_psol) | Build the PageSpeed Optimization Library (PSOL) |
 
+---
+
+## Contact
+
+Get in touch via the [contact page on deb.myguard.nl](https://deb.myguard.nl/contact/).
+
