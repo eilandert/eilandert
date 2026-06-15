@@ -24,6 +24,9 @@ Original work — authored and maintained by me.
 | [vimbadmin-crs-plugin](https://github.com/eilandert/vimbadmin-crs-plugin) | OWASP CRS / ModSecurity plugin for ViMbAdmin |
 | [rspamd-kam-rules](https://github.com/eilandert/rspamd-kam-rules) | Download, validate, convert and deploy KAM rules for Rspamd |
 | [rspamd-dcc-razor-pyzor](https://github.com/eilandert/rspamd-dcc-razor-pyzor) | Rspamd plugin + s6 Debian image scoring mail via DCC / Razor / Pyzor |
+| [gyzor](https://github.com/eilandert/gyzor) | Fast, dependency-light Go reimplementation of the pyzor client (library + CLI) |
+| [gazor](https://github.com/eilandert/gazor) | Fast, zero-dependency Go reimplementation of the razor (Razor2) client (library + CLI) |
+| [gdcc](https://github.com/eilandert/gdcc) | From-scratch, dependency-free Go DCC protocol client (library + CLI) |
 | [dockerized](https://github.com/eilandert/dockerized) | Dockerized stuff |
 
 ## Dead Projects Forked & Maintaining
