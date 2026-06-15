@@ -23,7 +23,8 @@ Original work — authored and maintained by me.
 | [vaultwarden-crs-plugin](https://github.com/eilandert/vaultwarden-crs-plugin) | OWASP CRS plugin for Vaultwarden (Bitwarden) — JSON-API-aware FP exclusions + opt-in path allowlist |
 | [vimbadmin-crs-plugin](https://github.com/eilandert/vimbadmin-crs-plugin) | OWASP CRS / ModSecurity plugin for ViMbAdmin |
 | [rspamd-kam-rules](https://github.com/eilandert/rspamd-kam-rules) | Download, validate, convert and deploy KAM rules for Rspamd |
-| [rspamd-dcc-razor-pyzor](https://github.com/eilandert/rspamd-dcc-razor-pyzor) | Rspamd plugin + s6 Debian image scoring mail via DCC / Razor / Pyzor |
+| [rspamd-dcc-razor-pyzor](https://github.com/eilandert/rspamd-dcc-razor-pyzor) | Rspamd plugin + ~19 MB distroless Go backend (gozer) scoring mail via DCC / Razor / Pyzor in-process |
+| [gozer](https://github.com/eilandert/gozer) | The DCC/Razor/Pyzor rspamd backend binary — links gdcc/gazor/gyzor in-process, one authenticated HTTP endpoint, no per-message forks |
 | [gyzor](https://github.com/eilandert/gyzor) | Fast, dependency-light Go reimplementation of the pyzor client (library + CLI) |
 | [gazor](https://github.com/eilandert/gazor) | Fast, zero-dependency Go reimplementation of the razor (Razor2) client (library + CLI) |
 | [gdcc](https://github.com/eilandert/gdcc) | From-scratch, dependency-free Go DCC protocol client (library + CLI) |
