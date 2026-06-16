@@ -14,39 +14,22 @@ admin). Most of it ships through my Debian/Ubuntu APT repo at
 
 Original work — authored and maintained by me.
 
-**nginx / Angie**
-
 | Project | What it is |
 |---|---|
 | [nginx-cache-turbo-module](https://github.com/eilandert/nginx-cache-turbo-module) | Edge page cache for nginx — shared-memory cache, stale-while-revalidate, probabilistic single-flight refresh |
 | [nginx-error-abuse-module](https://github.com/eilandert/nginx-error-abuse-module) | nginx module that rate-limits error (404) abusers |
 | [webserver-hardening](https://github.com/eilandert/webserver-hardening) | Hardening patches + config snippets for nginx, Angie and OpenSSL — the deb.myguard.nl stack |
-
-**OWASP CRS / ModSecurity**
-
-| Project | What it is |
-|---|---|
-| [wordpress-hardening-plugin](https://github.com/eilandert/wordpress-hardening-plugin) | OWASP CRS 4.0+ (ModSecurity) plugin to harden WordPress |
 | [vaultwarden-crs-plugin](https://github.com/eilandert/vaultwarden-crs-plugin) | OWASP CRS plugin for Vaultwarden (Bitwarden) — JSON-API-aware FP exclusions + opt-in path allowlist |
 | [vimbadmin-crs-plugin](https://github.com/eilandert/vimbadmin-crs-plugin) | OWASP CRS / ModSecurity plugin for ViMbAdmin |
-
-**Rspamd / mail**
-
-| Project | What it is |
-|---|---|
-| [rspamd-kam-rules](https://github.com/eilandert/rspamd-kam-rules) | Download, validate, convert and deploy KAM rules for Rspamd |
-| [rspamd-dcc-razor-pyzor](https://github.com/eilandert/rspamd-dcc-razor-pyzor) | Rspamd plugin + ~6 MB distroless Go backend (gozer) scoring mail via DCC / Razor / Pyzor in-process |
-| [gozer](https://github.com/eilandert/gozer) | The DCC/Razor/Pyzor rspamd backend binary — links gdcc/gazor/gyzor in-process, one authenticated HTTP endpoint, no per-message forks |
-| [gyzor](https://github.com/eilandert/gyzor) | Fast, dependency-light Go reimplementation of the pyzor client (library + CLI) |
+| [wordpress-hardening-plugin](https://github.com/eilandert/wordpress-hardening-plugin) | OWASP CRS 4.0+ (ModSecurity) plugin to harden WordPress |
 | [gazor](https://github.com/eilandert/gazor) | Fast, zero-dependency Go reimplementation of the razor (Razor2) client (library + CLI) |
 | [gdcc](https://github.com/eilandert/gdcc) | From-scratch, dependency-free Go DCC protocol client (library + CLI) |
-| [rspamd-yarad](https://github.com/eilandert/rspamd-yarad) | YARA scanner backend for rspamd — distroless nonroot Go service, statically-linked libyara, public rulesets baked in |
+| [gozer](https://github.com/eilandert/gozer) | The DCC/Razor/Pyzor rspamd backend binary — links gdcc/gazor/gyzor in-process, one authenticated HTTP endpoint, no per-message forks |
+| [gyzor](https://github.com/eilandert/gyzor) | Fast, dependency-light Go reimplementation of the pyzor client (library + CLI) |
+| [rspamd-dcc-razor-pyzor](https://github.com/eilandert/rspamd-dcc-razor-pyzor) | Rspamd plugin + ~6 MB distroless Go backend (gozer) scoring mail via DCC / Razor / Pyzor in-process |
+| [rspamd-kam-rules](https://github.com/eilandert/rspamd-kam-rules) | Download, validate, convert and deploy KAM rules for Rspamd |
 | [rspamd-olefy](https://github.com/eilandert/rspamd-olefy) | Concurrency/timeout/cache front-end wrapping Heinlein's olefy (oletools VBA-macro scanning) for busy rspamd pipelines |
-
-**Other**
-
-| Project | What it is |
-|---|---|
+| [rspamd-yarad](https://github.com/eilandert/rspamd-yarad) | YARA scanner backend for rspamd — distroless nonroot Go service, statically-linked libyara, public rulesets baked in |
 | [dockerized](https://github.com/eilandert/dockerized) | Dockerized stuff |
 
 ## Dead Projects Forked & Maintaining
