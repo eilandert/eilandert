@@ -28,8 +28,8 @@ Original work — authored and maintained by me.
 | [gyzor](https://github.com/eilandert/gyzor) | Fast, dependency-light Go reimplementation of the pyzor client (library + CLI) |
 | [gazor](https://github.com/eilandert/gazor) | Fast, zero-dependency Go reimplementation of the razor (Razor2) client (library + CLI) |
 | [gdcc](https://github.com/eilandert/gdcc) | From-scratch, dependency-free Go DCC protocol client (library + CLI) |
-| [yarad](https://github.com/eilandert/yarad) | YARA scanner backend for rspamd — distroless nonroot Go service, statically-linked libyara, public rulesets baked in |
-| [olefied](https://github.com/eilandert/olefied) | Concurrency/timeout/cache front-end wrapping Heinlein's olefy (oletools VBA-macro scanning) for busy rspamd pipelines |
+| [rspamd-yarad](https://github.com/eilandert/rspamd-yarad) | YARA scanner backend for rspamd — distroless nonroot Go service, statically-linked libyara, public rulesets baked in |
+| [rspamd-olefy](https://github.com/eilandert/rspamd-olefy) | Concurrency/timeout/cache front-end wrapping Heinlein's olefy (oletools VBA-macro scanning) for busy rspamd pipelines |
 | [dockerized](https://github.com/eilandert/dockerized) | Dockerized stuff |
 
 ## Dead Projects Forked & Maintaining
