@@ -28,6 +28,8 @@ Original work — authored and maintained by me.
 | [gyzor](https://github.com/eilandert/gyzor) | Fast, dependency-light Go reimplementation of the pyzor client (library + CLI) |
 | [gazor](https://github.com/eilandert/gazor) | Fast, zero-dependency Go reimplementation of the razor (Razor2) client (library + CLI) |
 | [gdcc](https://github.com/eilandert/gdcc) | From-scratch, dependency-free Go DCC protocol client (library + CLI) |
+| [yarad](https://github.com/eilandert/yarad) | YARA scanner backend for rspamd — distroless nonroot Go service, statically-linked libyara, public rulesets baked in |
+| [olefied](https://github.com/eilandert/olefied) | Concurrency/timeout/cache front-end wrapping Heinlein's olefy (oletools VBA-macro scanning) for busy rspamd pipelines |
 | [dockerized](https://github.com/eilandert/dockerized) | Dockerized stuff |
 
 ## Dead Projects Forked & Maintaining
@@ -38,6 +40,7 @@ Abandoned upstream projects I forked and now maintain.
 |---|---|---|
 | [zstd-nginx-module](https://github.com/eilandert/zstd-nginx-module) | [tokers/zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) | ZSTD compression for nginx / Angie |
 | [ViMbAdmin](https://github.com/eilandert/ViMbAdmin) | [opensolutions/ViMbAdmin](https://github.com/opensolutions/ViMbAdmin) | Modernised fork (2026) of the ViMbAdmin mail admin |
+| [roundcube-elastic4mobile](https://github.com/eilandert/roundcube-elastic4mobile) | [stoyanpetrov/elastic4mobile](https://github.com/stoyanpetrov/elastic4mobile) | Mobile-optimised Elastic skin for Roundcube webmail |
 
 
 ## Projects Maintaining
