@@ -16,8 +16,10 @@ Original work — authored and maintained by me.
 
 | Project | What it is |
 |---|---|
+| [nginx-autocert-module](https://github.com/eilandert/nginx-autocert-module) | Automatic TLS certificates built into nginx — `autocert on;` per vhost obtains, serves and renews certs (ACME) |
 | [nginx-cache-turbo-module](https://github.com/eilandert/nginx-cache-turbo-module) | Edge page cache for nginx — shared-memory cache, stale-while-revalidate, probabilistic single-flight refresh |
 | [nginx-error-abuse-module](https://github.com/eilandert/nginx-error-abuse-module) | nginx module that rate-limits error (404) abusers |
+| [nginx-label-autoconf-module](https://github.com/eilandert/nginx-label-autoconf-module) | Traefik-style Docker-label routing as a native nginx HTTP module — a watcher reads container labels and configures vhosts |
 | [webserver-hardening](https://github.com/eilandert/webserver-hardening) | Hardening patches + config snippets for nginx, Angie and OpenSSL — the deb.myguard.nl stack |
 | [vaultwarden-crs-plugin](https://github.com/eilandert/vaultwarden-crs-plugin) | OWASP CRS plugin for Vaultwarden (Bitwarden) — JSON-API-aware FP exclusions + opt-in path allowlist |
 | [vimbadmin-crs-plugin](https://github.com/eilandert/vimbadmin-crs-plugin) | OWASP CRS / ModSecurity plugin for ViMbAdmin |
