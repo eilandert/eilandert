@@ -68,6 +68,10 @@ EOL projects
 
 ---
 
+## More
+
+Curious what else is in the stack? **[Where to find us](https://deb.myguard.nl/where-to-find-us/)** lists every official repo, Docker image and download URL in one place. For a full index of everything published — packages, articles, pages — see the **[sitemap](https://deb.myguard.nl/sitemap/)**.
+
 ## Contact
 
 Get in touch via the [contact page on deb.myguard.nl](https://deb.myguard.nl/contact/).
