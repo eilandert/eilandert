@@ -32,7 +32,7 @@ Original work — authored and maintained by me.
 | [rspamd-dcc-razor-pyzor](https://github.com/eilandert/rspamd-dcc-razor-pyzor) | Rspamd plugin + ~6 MB distroless Go backend (gozer) scoring mail via DCC / Razor / Pyzor in-process |
 | [rspamd-kam-rules](https://github.com/eilandert/rspamd-kam-rules) | Download, validate, convert and deploy KAM rules for Rspamd |
 | [rspamd-olefy](https://github.com/eilandert/rspamd-olefy) | Concurrency/timeout/cache front-end wrapping Heinlein's olefy (oletools VBA-macro scanning) for busy rspamd pipelines |
-| [rspamd-yarad](https://github.com/eilandert/rspamd-yarad) | YARA scanner backend for rspamd — distroless nonroot Go service, statically-linked libyara, public rulesets baked in |
+| [mailstrix](https://github.com/eilandert/mailstrix) | Standalone mail-attachment malware scanner — deep recursive extraction (OLE/OOXML/VBA/archives) + YARA on the cleartext; rspamd / SpamAssassin / ICAP / Sieve / standalone. Distroless nonroot Go, static libyara, public rulesets baked in |
 | [dockerized](https://github.com/eilandert/dockerized) | Dockerized stuff |
 
 ## Dead Projects Forked & Maintaining
